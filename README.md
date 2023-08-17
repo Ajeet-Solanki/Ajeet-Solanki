@@ -46,9 +46,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ajeet-Solanki/Ajeet-Solanki/output/snake.svg" alt="Snake animation" />
 
 ###
 
